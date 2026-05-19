@@ -1,0 +1,10 @@
+#ifndef SRC_ALG_H_
+#define SRC_ALG_H_
+
+int countPairs1(int *arr, int len, int value);
+
+int countPairs2(int *arr, int len, int value);
+
+int countPairs3(int *arr, int len, int value);
+
+#endif  // SRC_ALG_H_
